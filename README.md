@@ -25,7 +25,7 @@ Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome Friedman, 2nd Edi
 
 ## Probability and Statistics
 + As the title would say, "Generalized Linear Models, abridged".[Link](https://bwlewis.github.io/GLM/)
-+ A good on Statistics [Link](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/) 
++ A good course to cover Statistics [Link](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/) 
 + Basic Statistics: Introduction to Mathematical Statistics, Hogg, McKean and Craig, Chapters 1-4. [Link](https://www.amazon.com/Introduction-Mathematical-Statistics-Robert-Hogg/dp/0321795431)
 + Introduction to Hypothesis Testing: Introduction to Mathematical Statistics, Hogg, McKean and Craig, Section 4.5-4.6 [Link](https://www.amazon.com/Introduction-Mathematical-Statistics-Robert-Hogg/dp/0321795431)
 + Examples of Uncorrelated vs Independent Random Variable [Link](https://www.stat.cmu.edu/~cshalizi/uADA/13/reminders/uncorrelated-vs-independent.pdf)
