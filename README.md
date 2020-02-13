@@ -30,6 +30,7 @@ Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome Friedman, 2nd Edi
 + Introduction to Hypothesis Testing: Introduction to Mathematical Statistics, Hogg, McKean and Craig, Section 4.5-4.6 [Link](https://www.amazon.com/Introduction-Mathematical-Statistics-Robert-Hogg/dp/0321795431)
 + Examples of Uncorrelated vs Independent Random Variable [Link](https://www.stat.cmu.edu/~cshalizi/uADA/13/reminders/uncorrelated-vs-independent.pdf)
 + Discrete time Markov Chains,Poisson Processes, Renewal Theory Adventures in Stochastic Processes, 2nd Edition, Sidney Resnick [Link](http://do.unicyb.kiev.ua/iksan/lectures/Adventures.pdf) TODO: Add a link to more succint notes.
++ Q-Q Plots [Link](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot)
 
 ## Assorted Mathematics
 + Some facts about Symmetric Matrices. [Link](http://www.doc.ic.ac.uk/~ae/papers/lecture05.pdf)
