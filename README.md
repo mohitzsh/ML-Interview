@@ -1,13 +1,13 @@
 # ML-Interview
 This is a list of resources I found useful during my preparation for interviews. Broadly speaking, I interviewd for three different profiles: Machine Learning Engineer, Applied Scientist and Quantitative Researcher. 
 
-NOTE: All these profiles would lilely include "traditional" programming/algorithm rounds and for that, I relied upon my mild leetcoding spread over a period of 3 months (~ 200 Easy/Medium/Hard problems for full-disclosure). 
+NOTE: All these profiles usually include multiple "traditional" programming/algorithm rounds, and for that, I relied upon my mild leetcoding, spread over a period of 3 months. 
 
-## Classifical Machine Learning
+## Classical Machine Learning
 
 + A very good (slighly advanced) course on Machine Learning by Alex Smola. [Link](http://alex.smola.org/teaching/cmu2013-10-701/stats.html) 
-+ Perhaps evrything that you'll need for interview sake. [Link](http://alumni.media.mit.edu/~tpminka/statlearn/glossary/) 
-+ Generative vs Discriminative Classifiers [Link](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
++ Perhaps everything that you'll ever need to know for the interview sake. [Link](http://alumni.media.mit.edu/~tpminka/statlearn/glossary/) 
++ Generative vs Discriminative Classifiers (you should know the difference, and tradeoffs when choosing one over the other) [Link](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
 + Gradient Boosted Trees [Link](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
 + ROC and AUC (I personally liked this video a lot) [Link](https://www.youtube.com/watch?v=OAl6eAyP-yo&t=729s)
 + Clustering (from Ryan Tibshirani's Data Mining course, other slides are really good as well) [Link 1](https://www.stat.cmu.edu/~ryantibs/datamining/lectures/04-clus1.pdf) [Link 2](https://www.stat.cmu.edu/~ryantibs/datamining/lectures/05-clus2.pdf) [Link 3](https://www.stat.cmu.edu/~ryantibs/datamining/lectures/06-clus3.pdf)
