@@ -1,7 +1,7 @@
 # ML-Interview
 This is a list of resources I found useful during my preparation for interviews. Broadly speaking, I interviewd for three different profiles: Machine Learning Engineer, Applied Scientist and Quantitative Researcher. 
 
-NOTE: All these profiles usually include multiple "traditional" programming/algorithm rounds, and for that, I relied upon my mild leetcoding, spread over a period of 3 months. 
+NOTE: All these profiles usually include multiple "traditional" programming/algorithm rounds, and for that, I relied upon mild leetcoding spree, spread over a period of 3 months. 
 
 ## Classical Machine Learning
 
