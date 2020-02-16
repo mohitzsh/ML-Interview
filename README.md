@@ -9,7 +9,7 @@ NOTE: All these profiles usually include multiple "traditional" programming/algo
 + Perhaps everything that you'll ever need to know for the interview sake. [Link](http://alumni.media.mit.edu/~tpminka/statlearn/glossary/) 
 + Generative vs Discriminative Classifiers (you should know the difference, and tradeoffs when choosing one over the other) [Link](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
 + Gradient Boosted Trees [Link](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
-+ ROC and AUC (I personally liked this video a lot) [Link](https://www.youtube.com/watch?v=OAl6eAyP-yo&t=729s)
++ ROC and AUC (I like this video) [Link](https://www.youtube.com/watch?v=OAl6eAyP-yo&t=729s)
 + Clustering (from Ryan Tibshirani's Data Mining course, other slides are really good as well) [Link 1](https://www.stat.cmu.edu/~ryantibs/datamining/lectures/04-clus1.pdf) [Link 2](https://www.stat.cmu.edu/~ryantibs/datamining/lectures/05-clus2.pdf) [Link 3](https://www.stat.cmu.edu/~ryantibs/datamining/lectures/06-clus3.pdf)
 + Good old Linear Regression. [Link](https://www.cs.cmu.edu/~epxing/Class/10715/lectures/lecture2-LR.pdf)
 + L0, L1 and L2 regularization (Subset Selection, Lasso and Ridge Regression), a comparison. The Elements of
