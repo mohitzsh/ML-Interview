@@ -51,4 +51,4 @@ Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome Friedman, 2nd Edi
 
 ## Uncategorized
 + Sobel Operator [Link](https://en.wikipedia.org/wiki/Sobel_operator)
-+ You have a fair Die, and you can choose to roll it 3 times. Whenever you decide to stop, the number that’s facing up is your score. What strategy would you choose to maximize your score? What is the expected score with your strategy? If you are given more than 3 chances, can you improve your score?
++ You have a fair Die, and you can choose to roll it up to 3 times. Whenever you decide to stop, the number that’s facing up is your score. What strategy would you choose to maximize your score? What is the expected score with your strategy? If you are given more than 3 chances, can you improve your score?
