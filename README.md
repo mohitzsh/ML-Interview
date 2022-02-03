@@ -32,6 +32,8 @@ Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome Friedman, 2nd Edi
 + Discrete time Markov Chains,Poisson Processes, Renewal Theory Adventures in Stochastic Processes, 2nd Edition, Sidney Resnick [Link](http://do.unicyb.kiev.ua/iksan/lectures/Adventures.pdf) TODO: Add a link to more succint notes.
 + Q-Q Plots [Link](https://en.wikipedia.org/wiki/Q%E2%80%93Q_plot)
 
+## Large Scale Machine Learning
++ Distributed version of several algorithms. https://10605.github.io/spring2020/
 ## Assorted Mathematics
 + Some facts about Symmetric Matrices. [Link](http://www.doc.ic.ac.uk/~ae/papers/lecture05.pdf)
 + Bare minimum SVD by Gilbert Strang. [Link](https://mitocw.ups.edu.ec/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/MIT18_06SCF11_Ses3.5sum.pdf)
