@@ -8,13 +8,14 @@ NOTE: All these profiles usually include multiple "traditional" programming/algo
 + A very good (slighly advanced) course on Machine Learning by Alex Smola. [Link](http://alex.smola.org/teaching/cmu2013-10-701/stats.html) 
 + Perhaps everything that you'll ever need to know for the interview sake. [Link](http://alumni.media.mit.edu/~tpminka/statlearn/glossary/) 
 + Generative vs Discriminative Classifiers (you should know the difference, and tradeoffs when choosing one over the other) [Link](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
-+ Gradient Boosted Trees [Link](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf)
++ Gradient Boosted Trees [Link](https://web.njit.edu/~usman/courses/cs675_spring20/BoostedTree.pdf)
++ Gentle Introduction to Gradient Boosting [Link](https://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf)
 + ROC and AUC (I like this video) [Link](https://www.youtube.com/watch?v=OAl6eAyP-yo&t=729s)
 + Clustering (from Ryan Tibshirani's Data Mining course, other slides are really good as well) [Link 1](https://www.stat.cmu.edu/~ryantibs/datamining/lectures/04-clus1.pdf) [Link 2](https://www.stat.cmu.edu/~ryantibs/datamining/lectures/05-clus2.pdf) [Link 3](https://www.stat.cmu.edu/~ryantibs/datamining/lectures/06-clus3.pdf)
 + Good old Linear Regression. [Link](https://www.cs.cmu.edu/~epxing/Class/10715/lectures/lecture2-LR.pdf)
 + L0, L1 and L2 regularization (Subset Selection, Lasso and Ridge Regression), a comparison. The Elements of
 Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome Friedman, 2nd Edition, Section 3.4.3 [Link](https://web.stanford.edu/~hastie/ElemStatLearn/)
-
++ 
 ## Deep Learning
 + Why tanh for Recurrent Networks [Link](https://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2015/slides/lec10.recurrent.pdf)
 + Receptive Fields in CNNs [Link](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
@@ -34,6 +35,7 @@ Statistical Learning, Trevor Hastie, Robert Tibshirani, Jerome Friedman, 2nd Edi
 
 ## Large Scale Machine Learning
 + Distributed version of several algorithms. https://10605.github.io/spring2020/
+
 ## Assorted Mathematics
 + Some facts about Symmetric Matrices. [Link](http://www.doc.ic.ac.uk/~ae/papers/lecture05.pdf)
 + Bare minimum SVD by Gilbert Strang. [Link](https://mitocw.ups.edu.ec/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/MIT18_06SCF11_Ses3.5sum.pdf)
